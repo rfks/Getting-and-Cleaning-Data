@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-Data
-Please note my R script called run_analysis.R only does point 1.,3. and 4. of the the following.:
+Please note my R script called run_analysis.R only does point 1.,3. and 4. of the following.:
 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
